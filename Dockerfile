@@ -1,4 +1,4 @@
-FROM mysql:5.5.44
+FROM mysql:5.7
 
 MAINTAINER Anthony K GROSS<anthony.k.gross@gmail.com>
 
